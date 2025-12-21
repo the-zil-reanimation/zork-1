@@ -1,2 +1,4 @@
 /.vscode
 *.code-workspace
+*.zap
+*.z[0-9]
